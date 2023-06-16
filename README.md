@@ -2,7 +2,7 @@
 
 
 
-![logo.jpg](https://github.com/Lawez/Oilstdata/blob/master/logo.jpg)
+![logo.jpg](https://github.com/Lawez/Oilstdata/blob/main/logo.jpg)
 
 Olist is a Brazilian e-commerce platform that connects small and medium-sized businesses to
 customers across Brazil. The platform operates as a marketplace, where merchants can list
